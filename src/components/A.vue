@@ -29,7 +29,17 @@
         </div>
         <br>
         <B/>
-            
+        <br>
+         <C/>
+         <br>
+         <D/>
+         <br>
+         <E/>
+         <br>
+         <F/>
+         <br>
+         <G/>
+         <H/>   
     </div>
     
 
@@ -38,10 +48,16 @@
 
 <script>
 import B from './B'
+import C from './C'
+import D from './D'
+import E from './E'
+import F from './F'
+import G from './G'
+import H from './H'
     export default {
         name:"A",  
         components:{
-            B
+            B,C,D,E,F,G,H
         }  
     }
 </script>

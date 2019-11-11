@@ -2,28 +2,28 @@
     <div>
 <div id="grid-container">
         <div>
-            B-1
+            L-1
         </div>
         <div>
-            B-2
+            L-2
         </div>
         <div>
-            B-3
+            L-3
         </div>
         <div>
-            B-4
+            L-4
         </div>
         <div>
-            B-5
+            L-5
         </div>
         <div>
-            B-6
+            L-6
         </div>
         <div>
-            B-7
+            L-7
         </div>
         <div>
-            B-8
+            L-8
         </div>
         </div>
     </div>
