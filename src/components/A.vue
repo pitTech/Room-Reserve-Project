@@ -39,7 +39,27 @@
          <F/>
          <br>
          <G/>
-         <H/>   
+         <H/>
+         <br> 
+         <I/>
+         <br>
+         <J/>
+         <br>
+         <K/>
+         <br>
+         <L/>
+         <br>
+         <M/>
+         <br>
+         <N/>
+         <br>
+         <O/>
+         <br>
+         <P/>
+         <br>
+         <Q/>
+         <br>
+         <R/>   
     </div>
     
 
@@ -54,10 +74,20 @@ import E from './E'
 import F from './F'
 import G from './G'
 import H from './H'
+import I from './I'
+import J from './J'
+import K from './K'
+import L from './L'
+import M from './M'
+import N from './N'
+import O from './O'
+import P from './P'
+import Q from './Q'
+import R from './R'
     export default {
         name:"A",  
         components:{
-            B,C,D,E,F,G,H
+            B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R
         }  
     }
 </script>
